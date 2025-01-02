@@ -1,3 +1,10 @@
+<div>
+    <a href="https://www.youtube.com/channel/UCOkbpu3eISBkp12cLPVQ9lQ target="_blank"">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s60pportunities&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s60pportunities&theme=tokyonight&layout=compact"/>
+
+</div>
+
 # Bem-vindo a 60portunities
 <p align="justify">A  60portunities decidiu focar em aposentados que têm interesse em tecnologia e em aprender novas habilidades. Realizamos uma pesquisa online e presencial em comunidades de aposentados para entender as necessidades e interesses em tecnologia.</p>
 
